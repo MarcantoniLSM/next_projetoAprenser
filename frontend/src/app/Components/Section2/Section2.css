@@ -1,0 +1,23 @@
+.section2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #fafafa;
+}
+
+.section2 h1{
+    font-size: 3rem;
+}
+
+.section2 .cards{
+    box-sizing: content-box;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 3rem;
+}

@@ -1,0 +1,10 @@
+.button1{
+    background-color: #FED001;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    padding: 1rem 3rem 1rem 3rem;
+    font-weight: 600;
+    border-radius: 5px;
+    border-color: transparent;
+    color: #2A2A2A;
+}

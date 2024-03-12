@@ -1,0 +1,29 @@
+.section4{
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 3rem;
+    padding-top: 0;
+    height: 100vh;
+    position: relative;
+}
+
+.section4 h1{
+    font-size: 2.5rem;
+    text-transform: capitalize;
+}
+
+.section4 img{
+    right: 3rem;
+}
+
+.section4 div{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 3rem;
+    bottom: 1rem;
+}
+
